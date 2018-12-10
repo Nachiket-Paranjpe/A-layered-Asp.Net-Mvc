@@ -3,3 +3,20 @@
 ################################################################################
 
 *.dll
+*.pdb
+*.config
+*.xml
+/BusinessAccessLayer/bin
+/BusinessAccessLayer/obj
+*.vspscc
+/ConsoleAppForTesting
+/CrossCuttingLayer/bin
+/CrossCuttingLayer/obj
+/Mvc App/bin
+/Mvc App/obj/Debug
+/NWDataAccessLayer/bin
+/NWDataAccessLayer/obj
+/ServiceLayer/App_Data
+/ServiceLayer/bin
+/ServiceLayer/obj
+/.vs/A layered Asp.Net Mvc/v15/Server/sqlite3
